@@ -1,0 +1,9 @@
+Student Name: zandi
+ Student Number: 8888
+ Course: IT
+ Programming Mark: 99
+ Database Mark: 99
+ Webdevelopment Mark: 78
+ Total: 276
+ Avarage: 92.0
+ Date: 11 August 2026
